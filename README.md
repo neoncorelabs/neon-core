@@ -3,20 +3,20 @@
 **An operating system identity, not a theme.**
 
 The shared design system and Compose component library for every app under
-[MonolithHQ](https://github.com/monolithhq) — starting with
-[`calc`](https://github.com/monolithhq/calc).
+[NeonCoreLabs](https://github.com/neoncorelabs) — starting with
+[`calc`](https://github.com/neoncorelabs/calc).
 
 This repo is an **implementation**, not documentation. The full specification —
 principles, color/type/motion tables, component specs, icon rationale — lives
-in [`monolithhq/docs`](https://github.com/monolithhq/docs), which is the single
+in [`neoncorelabs/docs`](https://github.com/neoncorelabs/docs), which is the single
 canonical source of truth across the whole organization.
 
 | Looking for... | Go to |
 |---|---|
-| Design principles | [`docs/core/PRINCIPLES.md`](https://github.com/monolithhq/docs/blob/main/core/PRINCIPLES.md) |
-| Full design system spec | [`docs/core/CORE-DS-01.md`](https://github.com/monolithhq/docs/blob/main/core/CORE-DS-01.md) |
-| Component specs | [`docs/core/CORE-COMPONENTS-01.md`](https://github.com/monolithhq/docs/blob/main/core/CORE-COMPONENTS-01.md) |
-| Icon / brand mark rationale | [`docs/core/CORE-ICONS-01.md`](https://github.com/monolithhq/docs/blob/main/core/CORE-ICONS-01.md) |
+| Design principles | [`docs/core/PRINCIPLES.md`](https://github.com/neoncorelabs/docs/blob/main/core/PRINCIPLES.md) |
+| Full design system spec | [`docs/core/CORE-DS-01.md`](https://github.com/neoncorelabs/docs/blob/main/core/CORE-DS-01.md) |
+| Component specs | [`docs/core/CORE-COMPONENTS-01.md`](https://github.com/neoncorelabs/docs/blob/main/core/CORE-COMPONENTS-01.md) |
+| Icon / brand mark rationale | [`docs/core/CORE-ICONS-01.md`](https://github.com/neoncorelabs/docs/blob/main/core/CORE-ICONS-01.md) |
 
 ## What's here
 
@@ -47,5 +47,5 @@ NEON//CORE change can't silently break an app mid-development.
 
 > Structure follows demonstrated complexity, not anticipated complexity.
 
-See [`docs/core/PRINCIPLES.md`](https://github.com/monolithhq/docs/blob/main/core/PRINCIPLES.md)
+See [`docs/core/PRINCIPLES.md`](https://github.com/neoncorelabs/docs/blob/main/core/PRINCIPLES.md)
 for the full list.
