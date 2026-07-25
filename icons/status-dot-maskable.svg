@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- NEON//CORE mark — "Status Dot" — maskable/full-bleed variant -->
+  <!-- No corner radius baked in; intended for Android adaptive icons / iOS auto-masking -->
+  <!-- Foreground content only — pair with a solid #11141C background layer -->
+  <rect x="0" y="0" width="96" height="96" fill="#11141C"/>
+
+  <circle cx="48" cy="48" r="24" fill="none" stroke="#2A3144" stroke-width="3"/>
+  <circle cx="48" cy="48" r="24" fill="none" stroke="#46FF88" stroke-width="3"
+          stroke-dasharray="37 200" stroke-linecap="round" transform="rotate(-90 48 48)"/>
+  <circle cx="48" cy="48" r="5" fill="#F2F5FA"/>
+</svg>
