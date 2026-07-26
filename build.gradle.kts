@@ -1,3 +1,5 @@
+group = "neon-core"
+
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.compose.compiler)
